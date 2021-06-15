@@ -1,0 +1,1 @@
+module.exports.insuranceController=require('./insurance.controller');

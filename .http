@@ -1,0 +1,16 @@
+POST http://localhost:5000/api/upload HTTP/1.1
+Content-Type: : "application/json multipart/form-data"
+
+{
+    "file":
+}
+
+###
+GET http://localhost:5000/api/pinfo/test HTTP/1.1
+Content-Type: : "application/json multipart/form-data"
+
+{
+
+}
+
+
